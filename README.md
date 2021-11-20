@@ -1,5 +1,4 @@
 **EN**  
-
 Swear words list in some languages  
 currently featuring:  
 - Hungarian  
