@@ -16,7 +16,7 @@ Jelenlegi nyelvek:
 - Magyar
 - francia
 - német
-- spanyol
+- olasz
 - román  
 - Angol  
 - Orosz  
