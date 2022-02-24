@@ -2,9 +2,7 @@
 Swear words list in some languages  
 currently featuring:  
 - Hungarian
-- ~~french~~
 - german
-- italian
 - romanian  
 - English  
 - Russian  
@@ -14,9 +12,7 @@ If u wanna add words feel free to message / create request
 Káromkodás adatbázik  
 Jelenlegi nyelvek:  
 - Magyar
-- ~~francia~~
 - német
-- olasz
 - román  
 - Angol  
 - Orosz  
