@@ -8,8 +8,6 @@ Zhopu porvu margala vikoliu
 Hooy tebe v zhopu!
 Hooy na ny!
 Blyat
-Zalupa konskaya
-Hooy morzhovy 
 Gandon shtopany
 Perdoon stary
 Pizdobol, Pizdoon
@@ -26,7 +24,6 @@ Minet
 Naveshat’ pizdyley
 Dat’ pizdy
 Pizdy vlomit’
-Srat’ tebe v rot
 Past’ zabej, padla jebanaja
 Zasranec
 Nu vse, tebe pizda
@@ -77,7 +74,6 @@ Suka / sooka
 Jebat moi lisiy cherep
 Chlen tebie v rot
 Otyebis
-Zhopu porvu margala vikoliu
 Otlez’ gnida
 Zhopoliz
 Srachishche
@@ -165,7 +161,6 @@ Ment (plural: menti)
 Zona
 Na zone
 Ti menia dostal
-Shluha vokzal’naja
 Wed’ma
 Past’ zakroi
 Tvar’
@@ -182,11 +177,9 @@ Paritsa (ne par’sia)
 Starik
 Bomzj
 Beloruchka
-Durak
 Botanik
 Burda
 Krisha poehala
-Nochnaja babochka
 Kak muhi na govno
 Vlip
 Popal
@@ -238,11 +231,10 @@ Ti liubeesh papeenu pees’ku sassat’
 Zacroy svoy peesavati rot, sooka
 Shestiorka
 Nu ti dajosh!
-Idi obsosi tyaevo papu, kak ti delayesh kazhdyi den, ti shluha yebanaya 
+Idi obsosi tyaevo papu, kak ti delayesh kazhdyi den, ti shluha yebanaya
 Naguliala
 Peshka
 Krisha
-U tya sho zhopa sho rozha: vse prigozhe
 Tya mama huyem v rot ebala
 Veshat lapshu na ushi
 Oo ti bya, galava, kak, oon a bizyanie jopuh
