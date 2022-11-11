@@ -123,7 +123,6 @@ Agyonkúrt
 Agyonvert
 Agyrákos
 AIDS-es
-Alapvetően fasz
 Animalsex-mániás
 Antibarom
 Aprófaszú
@@ -131,7 +130,6 @@ Arcbarakott
 Aszaltfaszú
 Aszott
 Átbaszott
-Azt a kurva de fasz
 Balfasz
 Balfészek
 Baromfifasz
@@ -175,7 +173,6 @@ Csupaszfarkú
 Cuncipunci
 Deformáltfaszú
 Dekorált pofájú
-Döbbenetesen segg
 Dobseggű
 Dughatatlan
 Dunyhavalagú
@@ -185,30 +182,6 @@ Egyszerűen fasz
 Elbaszott
 Eleve hülye
 Extrahülye
-Fantasztikusan segg
-Fasszopó
-Fasz
-Fasz-emulátor
-Faszagyú
-Faszarc
-Faszfej
-Faszfészek
-Faszkalap
-Faszkarika
-Faszkedvelő
-Faszkópé
-Faszláda
-Faszogány
-Faszpörgettyű
-Faszsapka
-Faszszagú
-Faszszopó
-Fasztalan
-Fasztarisznya
-Fasztengely
-Fasztolvaj
-Faszváladék
-Faszverő
 Feka
 Félrebaszott
 Félrefingott
@@ -406,7 +379,6 @@ Qtyaszar
 Rágcsáltfaszú
 Redva
 Rendkívül fasz
-Rétó-román
 Ribanc
 Riherongy
 Rivalizáló
@@ -469,8 +441,6 @@ Tompatökű
 Törpefaszú
 Toszatlan
 Toszott
-Totálisan hülye
-Tyű de picsa
 Tyúkfasznyi
 Tyúkszar
 Vadfasz
@@ -478,4 +448,3 @@ Valag
 Valagváladék
 Végbélféreg
 Xar
-Zsugorított faszú
